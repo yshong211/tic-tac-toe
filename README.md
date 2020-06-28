@@ -1,4 +1,4 @@
-Tutorial of tic-tac-toe (https://reactjs.org/tutorial/tutorial.html)
+Tutorial of tic-tac-toe in react (https://reactjs.org/tutorial/tutorial.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
